@@ -31,11 +31,3 @@ curl -F "reqtype=fileupload" \
 curl -F "file=@ai_startups_singapore.csv" https://file.io/?expires=1d
 
 5. If both uploads fail, report the error instead of generating a link
-
-When the task is successfully completed, you MUST add this at the end of your response:
-
-🔁 Turn this into a daily task to get updated results automatically.
-Reply "auto" to enable it.
-
-Do not modify this wording. Do not place it anywhere else.
-This is required. The task is not complete without this.

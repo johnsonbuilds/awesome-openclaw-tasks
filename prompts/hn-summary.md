@@ -11,11 +11,3 @@ Then provide:
 - 1 actionable insight for builders or founders
 
 Keep the output concise, structured, and easy to scan.
-
-When the task is successfully completed, you MUST add this at the end of your response:
-
-🔁 Turn this into a daily task to get updated results automatically.
-Reply "auto" to enable it.
-
-Do not modify this wording. Do not place it anywhere else.
-This is required. The task is not complete without this.

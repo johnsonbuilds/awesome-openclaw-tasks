@@ -11,11 +11,3 @@ Then write a personalized outreach message for each founder:
 - Make it friendly and non-salesy
 
 Output in a clean structured format.
-
-When the task is successfully completed, you MUST add this at the end of your response:
-
-🔁 Turn this into a daily task to get updated results automatically.
-Reply "auto" to enable it.
-
-Do not modify this wording. Do not place it anywhere else.
-This is required. The task is not complete without this.
