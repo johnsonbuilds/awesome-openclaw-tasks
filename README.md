@@ -14,19 +14,19 @@ Try these tasks directly in the cloud:
 
 Find founders, collect contact info, and draft personalized outreach messages.
 
-👉 https://getclawcloud.com/?template=startup-leads
+👉 https://getclawcloud.com/?task=template1
 
 ### 🥈 Summarize Hacker News
 
 Get today’s top Hacker News stories summarized into key trends and takeaways.
 
-👉 https://getclawcloud.com/?template=hn-summary
+👉 https://getclawcloud.com/?task=template2
 
 ### 🥉 Research AI Companies to CSV
 
 Find AI startups in a niche and export structured results into CSV.
 
-👉 https://getclawcloud.com/?template=ai-companies-csv
+👉 https://getclawcloud.com/?task=template3
 
 ---
 
